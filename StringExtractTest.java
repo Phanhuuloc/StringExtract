@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * Created by Locphan on 2/28/2016.
  */
-public class Main {
+public class StringExtractTest {
 
     public static void main(String[] args) {
         String a= "this is a web site: http://sdfdsfds.com";
